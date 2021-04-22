@@ -1,0 +1,14 @@
+{
+    "name": "pprof-nodejs-tooling",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Collection of pprof related tools",
+    "author": "Jake Bailey",
+    "license": "MIT",
+    "dependencies": {
+        "pprof": "^3.0.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.2.4"
+    }
+}
