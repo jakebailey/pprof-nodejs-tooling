@@ -1,3 +1,8 @@
+# DEPRECATED: use pprof-it!
+
+This repo has been deprecated in favor of [pprof-it](https://www.npmjs.com/package/pprof-it),
+which should do everything this project did, better.
+
 # pprof-nodejs-tooling
 
 Handy helpers for using pprof with node. To use, clone and `yarn install` this
